@@ -49,13 +49,26 @@ button {
     font-size: 16px;
 }
 
-#box-section {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+.heading {
+    color: #4E598C;
+    text-align: center;
+    font-family: system-ui;
+    font-size: 30px;
 }
 
-.heading {
-    background-color: #4E598C;
+.flex-container {
+    display: flex;
+    justify-content: center;
+    margin: 40px auto 0 auto;
+}
+
+.flex-box {
+    margin: 40px auto 0 auto;
+    color: white;
+    background-color:lightgray;
+    width: 140px;
+    margin: 20px;
     text-align: center;
+    line-height: 140px;
+    font-size: 20px;
 }
