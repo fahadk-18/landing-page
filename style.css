@@ -49,6 +49,10 @@ button {
     font-size: 16px;
 }
 
+#box-section {
+    padding: 30px;
+}
+
 .heading {
     color: #4E598C;
     text-align: center;
@@ -59,16 +63,23 @@ button {
 .flex-container {
     display: flex;
     justify-content: center;
+    gap: 35px;
 }
 
 .flex-box {
     margin: 10px;
     padding: 10px;
     width: 250px;
-    height: 300px;
+    height: 200px;
     background-color: #ffffff;
     color: #2B2B2B;
     text-align: center;
     font-size: 16px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+}
+
+.box-text{
+    font-family: system-ui;
+    font-size: 20px;
+    text-align: center;
 }
