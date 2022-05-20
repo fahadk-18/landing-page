@@ -51,6 +51,7 @@ button {
 
 #box-section {
     padding: 30px;
+    height: auto;
 }
 
 .heading {
@@ -82,4 +83,16 @@ button {
     font-family: system-ui;
     font-size: 20px;
     text-align: center;
+}
+
+#quote-section {
+    padding: 50px;
+    display: flex;
+    background: #F9C784;
+    height: 250px;
+    justify-content: center;
+    align-items: center;
+    font-family: system-ui;
+    font-size: 25px;
+    color: white;
 }
