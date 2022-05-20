@@ -5,7 +5,7 @@ html, body {
   
 #header-section {
     padding: 0px 20px;
-    background-color: #4E598C;
+    background-color: #0B132B;
     color: #ffff;
     font-family: system-ui;
 } 
@@ -28,7 +28,7 @@ a {
 }
 
 #hero-section {
-    background-color: #4E598C;
+    background-color: #0B132B;
     padding: 20px;
     color: #ffff;
     font-family: system-ui;
@@ -39,7 +39,7 @@ a {
 }
 
 button {
-    background-color: #FF8C42;
+    background-color: #5BC0BE;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -88,7 +88,7 @@ button {
 #quote-section {
     padding: 50px;
     display: flex;
-    background: #F9C784;
+    background: #6FFFE9;
     height: 250px;
     justify-content: center;
     align-items: center;
