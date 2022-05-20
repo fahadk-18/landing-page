@@ -96,3 +96,15 @@ button {
     font-size: 25px;
     color: white;
 }
+
+.hero-image {
+    width: 300px;
+}
+
+.hero-header {
+  margin: 0;
+}
+
+.hero-text {
+    font-size: 20px;
+}
