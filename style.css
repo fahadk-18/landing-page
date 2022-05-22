@@ -92,7 +92,7 @@ button {
     padding: 50px;
     display: flex;
     flex-wrap: wrap;
-    background: ##F5F5F5;
+    background: #F5F5F5;
     height: 250px;
     justify-content: center;
     align-items: center;
@@ -112,4 +112,18 @@ button {
 .hero-text {
     font-size: 20px;
     max-width: 500px;
+}
+
+#cta-section {
+    display: flex;
+    justify-content: center;
+}
+
+.cta-container {
+    background: #8aa3ed;
+    display: flex;
+    justify-content: space-around;
+    margin: 75px 0;
+    padding: 65px;
+    width: 1000px;
 }
