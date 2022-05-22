@@ -45,7 +45,7 @@ a {
     font-size: 30px;
 }
 
-.hero-button {
+button {
     border: 1px solid white;
     color: white;
     padding: 15px 32px;
@@ -54,6 +54,12 @@ a {
     display: inline-block;
     font-size: 16px;
     background-color: transparent;
+    transition: 0.3s;
+}
+
+button:hover {
+    color: #0B132B;
+    background-color: white;
 }
 
 #box-section {
@@ -149,17 +155,6 @@ a {
     width: 1000px;
     align-items: center;
     border: 2px white solid;
-}
-
-.cta-button {
-    border: 1px solid white;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    background-color: transparent;
 }
 
 .footer {
