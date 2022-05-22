@@ -36,6 +36,10 @@ a {
     margin: 20px;
 }
 
+.button-link {
+    margin: 0;
+}
+
 #hero-section {
 
     display: flex;
