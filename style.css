@@ -18,6 +18,14 @@ html, body {
     font-family: system-ui;
 } 
 
+@media only screen and (max-width: 600px) {
+    #header-section {
+        padding: 0;
+        color: #ffff;
+        font-family: system-ui;
+    } 
+  }
+
 .header {
     display: flex;
     justify-content: space-between;
