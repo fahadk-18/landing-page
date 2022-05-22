@@ -92,13 +92,14 @@ button {
     padding: 50px;
     display: flex;
     flex-wrap: wrap;
-    background: #F5F5F5;	
+    background: ##F5F5F5;
     height: 250px;
     justify-content: center;
     align-items: center;
     font-family: system-ui;
     font-size: 25px;
     color: #0B132B;
+}
 
 .hero-image {
     width: 300px;
